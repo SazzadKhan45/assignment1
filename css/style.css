@@ -255,7 +255,7 @@ h6 {
 
 
 /* fotter menu */
-ul {
+.menu-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -263,7 +263,7 @@ ul {
     background-color: #333;
   }
   
-  li {
+  .menu-list {
     float: left;
     margin-left: 130px;
   }
